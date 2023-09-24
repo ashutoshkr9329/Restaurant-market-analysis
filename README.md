@@ -9,7 +9,9 @@ This repository contains code and documentation for a data analysis project focu
 The project is organized into the following directories and files:
 
 - **data/**: This directory contains raw and processed data used in the analysis.
-
+  
+- **References/**: This directory contains raw and processed data that you can use as a reference to implement our own analysis.
+  
 - **notebooks/**: Jupyter notebooks used for data cleaning, exploration, analysis, and visualization.
 
 - **scripts/**: Python scripts for data preprocessing, geospatial analysis, and dashboard creation using Dash.
